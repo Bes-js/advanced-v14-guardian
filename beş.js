@@ -1,1 +1,1 @@
-console.log("30 Starda Yayında Beşşşşşşşşşşşş")
+console.log("25 Star ve 30 takipçide Yayında Beşşşşşşşşşşşş")
