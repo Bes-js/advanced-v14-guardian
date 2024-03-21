@@ -1,25 +1,12 @@
-# Discord v14 Stat / İstatistik Botu
+# Discord v14 TypeScript Guard/Backup
 
-
-Discord sunucularınızda kullanabileceğiniz güncel v14 Stat / Ses,Mesaj İstatistik botu. 
-
-  
-
- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/928259219038302258?hideDiscrim=true)](https://discord.com/users/928259219038302258) 
+* Discord Sunucularınızda Kullanabileceğiniz Gelişmiş v14 Guard Botu. 
+#
+* **150** Takipçi Ve Repo **85** Star Olduğunda Paylaşacağım.
+#
 
   
- # Kurulum & İçerik 
-
-
- - Yakında 
-
-  
-
- # Bazı Görseller  
-
-- Yakında 
-
-
- # İletişim 
-
- - [Discord Profilim](https://discord.com/users/928259219038302258) 
+<h2 align="center">
+ <a href="https://discord.com/users/928259219038302258"><img  width="400px" src="https://lanyard.kyrie25.me/api/928259219038302258?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Five+So+Beş+So+Me"></a>
+<a href="https://discord.com/users/798615228728082462"><img  width="400px" src="https://lanyard.kyrie25.me/api/798615228728082462?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness"></a>
+ </h2>
