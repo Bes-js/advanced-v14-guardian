@@ -1,2 +1,2 @@
-var value:string = "150 Takipçi Ve 80 Star'da Paylaşacağım.";
+var value:string = "150 Takipçi Ve 85 Star'da Paylaşacağım.";
 console.log(value);
