@@ -1,6 +1,8 @@
 # Discord v14 TypeScript Guard/Backup
 
 * Discord Sunucularınızda Kullanabileceğiniz Gelişmiş v14 Guard Botu. 
+
+# Müsait Olunca Payalşıcam, Bana DM'lerden Yazıp Durmayın.
 #
 * **150** Takipçi Ve Repo **85** Star Olduğunda Paylaşacağım.
 #
