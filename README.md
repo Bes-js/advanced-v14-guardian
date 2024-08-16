@@ -2,7 +2,7 @@
 
 * Discord Sunucularınızda Kullanabileceğiniz Gelişmiş v14 Guard Botu. 
 
-# Müsait Olunca Payalşıcam, Bana DM'lerden Yazıp Durmayın.
+# Müsait Olunca Payalşıcam, Bana DM'lerden Yazıp Durmayın Ve Botu PC'de Bulmam Lazım Hangi Dosyada Olduğunu :D.
 #
 * **150** Takipçi Ve Repo **85** Star Olduğunda Paylaşacağım.
 #
