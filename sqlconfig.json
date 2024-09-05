@@ -1,0 +1,19 @@
+
+{
+  "filePathOrConnectionURI": "./database.sqlite",
+  "databaseType": "sqlite",
+  "databaseEngine": "InnoDB",
+  "ssl": false,
+  "pool": {
+    "acquire": 60000,
+    "idle": 10000,
+    "max": 5,
+    "min": 0,
+    "evict": 1000
+  },
+  "connectionAlert": true,
+  "backup": false,
+  "backupPath": "./backup.sqlite",
+  "backupInterval": 3600000,
+  "backupAlert": false
+}

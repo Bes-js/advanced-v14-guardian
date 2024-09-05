@@ -1,0 +1,51 @@
+{
+  "name": "advanced-v14-guardian",
+  "version": "1.0.0",
+  "description": "Beş SQL Advanced V14 Guard Bots",
+  "main": "five.js",
+  "scripts": {
+    "start": "node five.js"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "guard",
+    "v14",
+    "advanced",
+    "discord-guard",
+    "discord-v14-guard",
+    "discord-advanced-guard",
+    "discord-v14",
+    "v14-guard",
+    "guard-bots",
+    "bots",
+    "discord-bots",
+    "beş",
+    "bes",
+    "fivesobes"
+  ],
+  "bugs": {
+    "url": "https://discord.gg/luppux"
+},
+  "funding": {
+    "url": "https://www.paytr.com/link/2qh0pLB?lang=en",
+    "type": "paytr"
+},
+  "author": {
+    "name": "Bes-js",
+    "url": "https://github.com/Bes-js"
+  },
+  "license": "LGPL-3.0-or-later",
+  "dependencies": {
+    "cherry3": "^5.2.0",
+    "cherry3-lite": "^2.0.0",
+    "discord-anti-spam": "^2.8.1",
+    "discord-bettermarkdown": "^2.1.1",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "five.db": "^0.0.9",
+    "node-schedule": "^2.1.1",
+    "path": "^0.12.7",
+    "sqlite3": "^5.1.7"
+  }
+}
