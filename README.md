@@ -11,6 +11,7 @@
 *Zamanında Approval (Memo) Ve Ertu'nun Botlarınıda Sattı Hala Satmaya Çalışıyo, Almayın Bu Türemelere 10 Kuruş Para Kazandırmayın TŞK.*
 
 ## 🎚️ Nasıl Kurulur?
+- **NodeJS'in Sitesinden NodeJS'i İndirin Ve Yükleyin.  [İndirmek İçin Tıklayın](https://nodejs.org/en)**
 - **Botun Klasöründe Yeni Bir CMD (Terminal) Açın.**
 - **Gelen Ekrana İlk Olarak ` npm install ` Yazıp Enter Atın.**
 - **Sonrasında ` config.js ` Dosyasına Girerek Alttaki Gibi Verileri Doldurun.**
