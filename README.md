@@ -35,6 +35,7 @@ Curses:[...]
 - **` config.js `'i Doldurduktan Sonra Önceden Açtığınız CMD (Terminal)'e ` npm run start ` Yazıp Enter Atınız.**
 - **Bot Hazır Ve Aktif, Komut Kullanımları İçin Alttaki Resimleri İnceliyebilirsiniz.**
 - **Yardım, Kurulum İçin Destek, Hata Bildirimi İçin Alttaki Discord Sunucumuza Gelebilirsiniz.**
+  
 [![Discord Banner](https://api.weblutions.com/discord/invite/luppux/)](https://discord.gg/luppux)
 
 ## 🌟 Proje Hakkında
